@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b0fc4b4-c764-4d65-9b2f-ec69b8a62ae6" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>contextConfigLocation</find>
+      <find>Annotation</find>
+      <find>Autowired</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/eclipse/maven/maven3" />
+        <option name="userSettingsFile" value="E:\eclipse\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="jdk-1.7" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="1935" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectId" id="1aAmwZsbTlE7cN6cfdoxwmYjt6o" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_L2_2020.03.24/02_讲义及源码/第一阶段/spring/spring相关代码代码/代码/lagou-transfer-ioc-xml-anno" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wjyxsy.Annotation" />
+      <recent name="com.wjyxsy.servlet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\拉钩教育\springwjytest\src\main\resources" />
+      <recent name="E:\拉钩教育\springwjytest\src\main\java\com\wjyxsy" />
+      <recent name="E:\拉钩教育\springwjytest\src\main\java\com\wjyxsy\pojo" />
+      <recent name="E:\拉钩教育\springwjytest\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.springwjytest [tomcat7:run]">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="ClasspathPackageScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjyxsy.utils.ClasspathPackageScanner" />
+      <module name="springwjytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjyxsy.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBean.annoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springwjytest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBean" />
+      <option name="METHOD_NAME" value="annoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBean.parentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springwjytest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBean" />
+      <option name="METHOD_NAME" value="parentTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBean.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springwjytest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBean" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="springwjytest [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClasspathPackageScanner" />
+      <item itemvalue="JUnit.TestBean.test" />
+      <item itemvalue="JUnit.TestBean.parentTest" />
+      <item itemvalue="JUnit.TestBean.annoTest" />
+      <item itemvalue="Maven.springwjytest [tomcat7:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.springwjytest [tomcat7:run]" />
+        <item itemvalue="JUnit.TestBean.annoTest" />
+        <item itemvalue="Application.ClasspathPackageScanner" />
+        <item itemvalue="JUnit.TestBean.parentTest" />
+        <item itemvalue="JUnit.TestBean.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\继洋\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b0fc4b4-c764-4d65-9b2f-ec69b8a62ae6" name="Default" comment="" />
+      <created>1585639448416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585639448416</updated>
+      <workItem from="1585639449916" duration="23768000" />
+      <workItem from="1585812864111" duration="3141000" />
+      <workItem from="1585875250511" duration="4951000" />
+      <workItem from="1585891818423" duration="11997000" />
+      <workItem from="1586006139186" duration="31000" />
+      <workItem from="1586006202158" duration="1282000" />
+      <workItem from="1586180095553" duration="958000" />
+      <workItem from="1586187017514" duration="272000" />
+      <workItem from="1586222729041" duration="1009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 37m 38s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 41m 14s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 41m 24s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 42m 04s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 43m 17s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 43m 53s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 44m 16s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 45m 39s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 46m 44s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBean_annoTest - 2020.04.03 at 16h 47m 12s.xml">
+      <configuration name="TestBean.annoTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="0" key="SettingsEditor" timestamp="1586187187978">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="247" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1586187187978" />
+    <state x="325" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1586187020940">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="325" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1586187020940" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

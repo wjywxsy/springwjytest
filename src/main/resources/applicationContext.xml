@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans>
+    <!--<component-scan base-package="com.wjyxsy.service" />-->
+    <!--<component-scan base-package="com.wjyxsy.dao" />-->
+    <!--<component-scan base-package="com.wjyxsy.utils" />-->
+    <component-scan base-package="com.wjyxsy" />
+
+    <!--<bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" lazy-init="false">-->
+        <!--<property name="driverClassName" value="$jdbc.driver}" />-->
+        <!--<property name="url" value="${jdbc.url}" />-->
+        <!--<property name="username" value="${jdbc.username}" />-->
+        <!--<property name="password" value="${jdbc.password}" />-->
+    <!--</bean>-->
+
+    <!--<bean id="createFactoryBean" class="com.wjyxsy.factory.CreateFactoryBean" init-method="initMethod" destroy-method="destroyMethod" lazy-init="false" scope="singleton">-->
+        <!--<property name="name" value="bean123" />-->
+    <!--</bean>-->
+</beans>
